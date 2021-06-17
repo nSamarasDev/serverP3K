@@ -1,0 +1,23 @@
+{
+  "name": "nicksserver2",
+  "version": "1.0.2",
+  "description": "server socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsamarasDev/nicksServer.git"
+  },
+  "keywords": [
+    "server",
+    "data"
+  ],
+  "author": "Nicholas Samaras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsamarasDev/nicksServer/issues"
+  },
+  "homepage": "https://github.com/nsamarasDev/nicksServer#readme"
+}
